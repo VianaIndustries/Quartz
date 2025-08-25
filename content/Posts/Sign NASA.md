@@ -1,5 +1,0 @@
----
-{"publish":true,"created":"2025-08-24T19:15:39.576+01:00","modified":"2025-08-25T20:54:56.132+01:00","cssclasses":""}
----
-
-![[attachments/Pasted image 20250821215030.jpg]]![[attachments/Pasted image 20250821215037.png]]![[attachments/Pasted image 20250821215107.png]]![[attachments/Pasted image 20250821215115.jpg]]![[attachments/Pasted image 20250821215118.jpg]]![[attachments/Pasted image 20250821215120.jpg]]![[attachments/Pasted image 20250821215127.jpg]]![[attachments/Pasted image 20250821215132.jpg]]![[attachments/Pasted image 20250821215135.jpg]]![[attachments/Pasted image 20250821215137.jpg]]![[attachments/Pasted image 20250821215141.jpg]]![[attachments/Pasted image 20250821215144.jpg]]![[attachments/Pasted image 20250821215147.jpg]]![[attachments/Pasted image 20250821215150.jpg]]![[attachments/Pasted image 20250821215202.jpg]]![[attachments/Pasted image 20250821215206.jpg]]![[attachments/Pasted image 20250821215209.jpg]]![[attachments/Pasted image 20250821215211.jpg]]![[attachments/Pasted image 20250821215214.jpg]]
