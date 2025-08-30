@@ -1,6 +1,15 @@
 ---
-{"publish":true,"title":"Welcome to Quartz","created":"2025-08-24T17:41:14.600+01:00","modified":"2025-08-25T21:18:04.144+01:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Quartz","created":"2025-08-24T17:41:14.600+01:00","modified":"2025-08-30T11:10:40.813+01:00","cssclasses":""}
 ---
+
+
+```
+<Carousel>
+<img src="attachments/Pasted image 20250821213211" alt="Description of image 1"/>
+<img src="attachments/Pasted image 20250821213211" alt="Description of image 2"/>
+<img src="attachments/Pasted image 20250821213211" alt="Description of image 3"/>
+</Carousel>
+```
 
 
 This is a blank Quartz installation.
@@ -11,6 +20,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 teste
 
 <div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://www.youtube.com/watch?v=5Hmy-ZgNRpQ" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">I Built my DREAM Desk Setup in NYC</div><div class="auto-card-link-description">It's FINALLY complete! Part 2/2 of the bed loft build. I never want to move now...Friends: @hollywoodty @ShervinShares GEAR:Camera Bag (Peter McKinnon Everyd...</div><div class="auto-card-link-host"><span>www.youtube.com</span></div></div><img draggable="false" src="https://i.ytimg.com/vi/5Hmy-ZgNRpQ/maxresdefault.jpg" class="auto-card-link-thumbnail" /></a></div>
-
+![[Projects.base]]
 
 <style>.auto-card-link-container{background-color:transparent;container-type:inline-size;position:relative;overflow:hidden;user-select:none;--auto-card-link-button-width:calc(var(--icon-size, 18px) + var(--size-2-3, 6px));--auto-card-link-indent-size:2.5em}&[data-auto-card-link-depth="1"]{margin-left:calc(var(--auto-card-link-indent-size) * 1)}&[data-auto-card-link-depth="2"]{margin-left:calc(var(--auto-card-link-indent-size) * 2)}&[data-auto-card-link-depth="3"]{margin-left:calc(var(--auto-card-link-indent-size) * 3)}&[data-auto-card-link-depth="4"]{margin-left:calc(var(--auto-card-link-indent-size) * 4)}&[data-auto-card-link-depth="5"]{margin-left:calc(var(--auto-card-link-indent-size) * 5)}&[data-auto-card-link-depth="6"]{margin-left:calc(var(--auto-card-link-indent-size) * 6)}&[data-auto-card-link-depth="7"]{margin-left:calc(var(--auto-card-link-indent-size) * 7)}.auto-card-link-title{white-space:normal!important;--lh:1.5em;line-height:var(--lh);height:calc(var(--lh) * 3);overflow:hidden;text-overflow:ellipsis}.auto-card-link-card{display:flex;flex-direction:row-reverse;height:8em;transition:20ms ease-in;cursor:pointer;text-decoration:none;color:var(--link-external-color,var(--highlight));background:var(--background-primary-alt,var(--darkgray));border:solid var(--border-width) var(--divider-color,var(--lightgray));border-radius:var(--radius-s,4px)}.auto-card-link-main{display:flex;flex-grow:1;flex-direction:column;justify-content:space-between;gap:.18em;padding:.5em .6em;overflow:hidden;text-align:left}.auto-card-link-description{overflow:hidden;--lh:1.4em;line-height:var(--lh);height:calc(var(--lh) * 3);color:var(--text-muted,var(--darkgray));font-size:var(--font-smallest, .9em)}.auto-card-link-host{font-size:var(--font-smallest, .9em);display:flex;flex-direction:row;align-items:center;text-overflow:ellipsis;white-space:nowrap}&:hover{color:var(--link-external-color-hover,var(--tertiary))}.auto-card-link-thumbnail{margin:0;width:unset!important;border-radius:var(--radius-s,4px) 0 0 var(--radius-s,4px)!important;height:100%;object-fit:cover;max-width:50%!important;pointer-events:none}.auto-card-link-container svg.external-icon{display: none}</style>
